@@ -6,7 +6,7 @@ pc协会图片仓库
 
 ## 首次使用
 
-首次使用需要配置仓库Token
+[首次使用](https://picx.xpoet.cn/#/config)需要配置仓库Token
 
 ![image](https://cdn.staticaly.com/gh/CQNU-PC/pc-img@master/mackenia/pc-img/image.3ge26uvtbgg0.webp)
 
