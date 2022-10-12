@@ -45,3 +45,5 @@ mackenia
 ### 获取Token
 
 查看官方[获取Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)教程
+
+其他与上文类似
