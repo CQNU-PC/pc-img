@@ -28,7 +28,7 @@ pc协会图片仓库
 
 ```
 mackenia
-├── 共献文章
+├── 贡献文章
 |  └── xxx.webp
 └── pc-img
    └── xxx.webp
